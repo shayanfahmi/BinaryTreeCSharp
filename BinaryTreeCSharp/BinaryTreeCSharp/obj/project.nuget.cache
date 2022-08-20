@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BwUVNKlI7pwWTDhJ9dIrTwsgToC4D62Lav15zp9pnFqNYxWn9rIn4VvD9MXctfRtoLh6c5gDwsadzCQYoXqYA==",
+  "success": true,
+  "projectFilePath": "/Users/shayanfahmi/Workspace/BinaryTreeCSharp/BinaryTreeCSharp/BinaryTreeCSharp/BinaryTreeCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/shayanfahmi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/shayanfahmi/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/shayanfahmi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
