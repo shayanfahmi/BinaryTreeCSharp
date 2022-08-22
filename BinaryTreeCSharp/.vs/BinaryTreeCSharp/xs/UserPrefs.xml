@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{96D71EFB-9BA3-4790-A058-654AD5C7AB7B}|Default">
-  <MonoDevelop.Ide.ItemProperties.BinaryTreeCSharp FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BinaryTreeCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryTreeCSharp/Program.cs">
+    <Files>
+      <File FileName="BinaryTreeCSharp/Program.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinaryTreeCSharp" expanded="True">
+            <Node name="BinaryTreeCSharp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
